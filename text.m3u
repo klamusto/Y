@@ -1,9 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",beIN_1_HD
-http://93.123.72.138:8000/play/a01p
-#EXTINF:-1 group-title="-",beIN_1_SD
-http://93.123.72.138:8000/play/a00o
-#EXTINF:-1 group-title="-",beIN_2_HD
-http://93.123.72.138:8000/play/a01q
-#EXTINF:-1 group-title="-",beIN_2_SD
-http://93.123.72.138:8000/play/a00p
+
+# --- BeIN SPORTS ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Bein_sports_logo.png" group-title="BeIN SPORTS", BeIN Sports 1
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/tSbzzs-Nv0EvT2xR_Yj89gWi9cz1cydFjft8A7OCKlBgeJQa6qGNlaGC3usB-8nGAuW00nUF8CsWyMOsA05uPqtfrTTbh8ZUt2MVFXESihYMvuQHDGSinxJ7N2FTP3Bzv8AEJh4dXsGaTumSQkmDZ0e9Cx2cCGz8HEai593-UjWaP53CH7ySrRRfc6-Ugx_D/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Bein_sports_logo.png" group-title="BeIN SPORTS", BeIN Sports 2
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/MqGJFCChUvx9yUI0K04mUVrwGHt24O_esIgaH1mXHTUjO_oKyhXcrA2OZk3Z4ZkSxKvciKyOKjiHafFjfoNTZhGTXVJjRGrCjDMmzchDZNUzOcRYAmkQa6OpYdsMhy7tHxMYvoQsQJvpJI8ex3e6dSZxAZdegOOWHHwDz8gbf2be5Ghv1d2GYX4z6o2njn7R/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Bein_sports_logo.png" group-title="BeIN SPORTS", BeIN Sports 3
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/wob3AGgY2dtuXH7n6HnzS_pfTnLvQVpLGUO_vIRF2-ZtqRIfrWeuwyeSYkFCVojXY2cwAIP7sS6VkPq2ox8rKkmNNP03ATs1-j4rm_-H5qX7_ZWHJjt4iOle2EQDEaxIuOzmyEgR2UPDVktuBRQezOgCjzTIrJz2kqxqfny7ThxSEXNzs35d3QxzubS-Dssz/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Bein_sports_logo.png" group-title="BeIN SPORTS", BeIN Sports 4
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/aCATFytmwoBnBeCOzuS--53jdsrO8chK5LjUWFRZrgiYWECAQ104Ivo-6TSQPfNPhCgfIuQSpJhvlDraTKtV-kQ1KU14v3nXyoGQ2eZt3jqWJvAsTUFrX9i0QjeM2Rrl-4s9h1_LStPPqKai9SbzhXGFVM-fsRDXey6O_sYSbxp0pGjjZeczV3pj9AI6XBEf/hls/index.m3u8
+
+# --- SSC SPORTS ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ssc_sports.png" group-title="SSC Sports", SSC Sports 1
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/YymfmT42fPkjjXIQceh5BYz4IGlvorglg_U-9ceu9WD9eU1s7TkULZxX_xdvMHpnZ7Tm0baGUvjI0jpgBC-tqcFlN_J3dmM-CQRDQCBdMPb4CZ8f_0SjiV09lhGTi_TmxyBL8lB0imnRUPPfwTkdgDRB3Kf-iYJYdpS8aOina0DW-Hhh7FQ3HPdL28giY2BT/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ssc_sports.png" group-title="SSC Sports", SSC Sports 2
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/iv9xf7jDuzg51ewKErbOSPUgJgEi1BsZjTvEZ_MUTRk4I55NvoZDRv4LLfCzb_5tvR9af6Fs36YtiJv3-1juycDVyR_gMByJTHpe03aF6mNgCmucUFiMWOOM1fDcGwWDNOEByhzXKSDR5rglJlam9aQOlcyhx5RT8hHlvT98Hsr2lj3sBsCm33JFNBM331E3/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ssc_sports.png" group-title="SSC Sports", SSC Sports 3
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/7iGYdU5DlikcSZb_Fao9izWSfkCHdGXaYXA1QwtvTGRMrPfjl9WmnVQdu0EI8p1ayzdCEWGub-lSH88B7hIxgv49iYqWL6GBHcT-FLCrio6qD2gyXDwbLhHOQ_QrvfbQgXh7dUCxdKoFX4KzURuZJgcpz-NQV-BiK1iRLgvsThpWiycwXFR-v4imqcX8Mft9/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Ssc_sports.png" group-title="SSC Sports", SSC Sports 4
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/-Eu4pWcISXXu7zhE2wGS5CvZzaL6j6UrpR1L-BSvFx5hP_ONvEjRKZW72O0Z-3ZI-XtTklo3997qX-t0Aibh18HgtfOv1olTRzNCDrC-kzylEXNUcXvVdLk06qELovVbwNpqSnhzJYr_edevVVVisng3k23ubxOXVnK5ZnP-pZSqZzXh-w8P4fNmZcMFxcZn/hls/index.m3u8
